@@ -1,5 +1,5 @@
 const TARGET_MONTH = 3; // April
-const TARGET_DAY = 14;
+const TARGET_DAY = 16;
 const REDIRECT_URL = "AApop.html";
 
 function getNextTargetDate() {
